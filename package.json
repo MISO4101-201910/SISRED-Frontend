@@ -42,7 +42,7 @@
     "ng-spin-kit": "^5.1.1",
     "ngx-spinner": "^7.1.4",
     "ng2-pdf-viewer": "^5.2.4",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "path": "^0.12.7",
     "popper.js": "^1.15.0",
     "rxjs": "~6.3.3",
